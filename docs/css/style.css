@@ -363,7 +363,6 @@ ul {
     border: 10px solid #fff;
     -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, 0.61);
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.61);
-    position: relative;
     z-index: 9;
 }
 
@@ -1000,4 +999,8 @@ ul {
     .intro-inner .intro-content h2 {
         font-size: 27px;
     }
+}
+
+img.img {
+    margin-top: -13px;
 }
